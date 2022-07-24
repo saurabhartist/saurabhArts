@@ -1,0 +1,18 @@
+#headline{
+  background-color: black;
+  color: white;
+  border-style: outset;
+  border-color: yellow;
+  border-width: thick;
+  
+  
+}
+
+
+
+
+body{
+  margin: 0;
+  padding:0;
+} 
+

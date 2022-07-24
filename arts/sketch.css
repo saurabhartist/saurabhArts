@@ -1,0 +1,41 @@
+/*
+* {
+  box-sizing: border-box;
+}
+
+.glass {
+  width: 30%;
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px;
+}
+
+.cat {
+  width: 100%;
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px;
+}
+
+.stll {
+  width: 70%;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 15px;
+}
+
+.eye {
+  width: 90%;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 25px;
+}
+
+glass img{
+height: 50px;
+} 
+/*
