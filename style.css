@@ -1,0 +1,129 @@
+.headline{
+  background-color: black;
+  color: white;
+  border-style: outset;
+  border-color: yellow;
+  border-width: thick;
+  width: fit-content;
+  /* margin-right: 528px; */
+  /* margin-left: 528px; */
+  border-right-width: 8px;
+  border-left-width: 8px;
+  border-top-width: 8px;
+  border-bottom-width: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 10px 100px / 120px;
+  display: inline-block;
+
+}
+
+.contact{
+  background-color: white;
+  
+  width: min-content;
+  border-style: outset;
+  
+  margin-left: 932px;
+  display: inline-block;
+  border-radius: 25% 10%;
+}
+
+#tiger{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#glass{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#joker{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#cat{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+#still{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#eye{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#freeman{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px; 
+}
+
+#baby{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#old{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#ape{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#shadow{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#spiderman{
+  display: inline-block;
+  padding-left: 64px;
+  padding-right: 64px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

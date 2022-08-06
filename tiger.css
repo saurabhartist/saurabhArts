@@ -1,0 +1,10 @@
+#tiger {
+    margin-left: 586px;
+    margin-right: 586px;
+    margin-bottom: 30px;
+    border-style: inset;
+    border-width: thick;
+    width: fit-content;
+    border-color: black;
+    background-color: black;
+}

@@ -1,0 +1,31 @@
+.profile-img{
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+.feel{
+    margin-left: 559px;
+    margin-right: 559px;
+    margin-top: 19.920px;
+    margin-bottom: 19.920px;
+}
+
+.instagram{
+    display: inline-block;
+    margin-left: 593px;
+    padding-right: 15px;
+    padding-left: 15px;
+    /* margin-right: 620px; */
+}
+
+.facebook{
+    display: inline-block;
+    /* margin-left: 620px; */
+    margin-right: 590px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
